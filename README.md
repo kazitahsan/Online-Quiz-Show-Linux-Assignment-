@@ -1,5 +1,5 @@
-# School-Projects
-CS 2308 - Foundations of Computer Science II (Texas State University)
+# School-Projects |
+CS 2308 - Foundations of Computer Science II (Texas State University) |
 Linux Programming Assignment I (Ziliang Zong)
 
 In this project, we will write a program that controls a quiz show. The program will read in a group of questions and their multiple choice answers, storing them to a 2D array of strings (which can be implemented as a 3D array of type char or a 2D array of C++ strings.) The correct answers will be stored in a separate 1D array of type char.
